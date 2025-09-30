@@ -11,7 +11,7 @@
 
 - Cause I like matematics I create this one [Matemat](https://github.com/Alberton2233/Practica-en-Power-Bi)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
